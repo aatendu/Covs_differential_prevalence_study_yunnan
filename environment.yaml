@@ -313,4 +313,4 @@ dependencies:
   - zlib=1.2.13=hd590300_5
   - zstandard=0.22.0=py39h6e5214e_0
   - zstd=1.5.5=hfc55251_0
-prefix: /home/tendu/anaconda3/envs/snakemake_carpentry
+prefix: /home/tendu/anaconda3/envs/covs_prevalence
