@@ -1,5 +1,9 @@
 ## Differential prevalence and risk factors for infection of coronaviruses in bats collected during 2020 in Yunnan Province, China
+***
+**Work by**: Ruiya Li, Alexander Tendu, Yakhouba Kane, Victor Omondi, Jiaxu Ying, Lingjing Mao, Shiman Xu, Rong Xu, Xing Chen, Yanhua Chen, Stéphane Descorps-Declère, Kathrina Mae Bienes, Meriem Fassatoui, Alice Hughes, Nicolas Berthet, and Gary Wong.
 
+## About this repository
+***
 This repository contains a reproducible workflow related to Figure 4C in the above named manuscript.
 
 The whole workflow can be run automatically using [snakemake](https://snakemake.readthedocs.io/en/stable/). It utilizes the conda environment specified in [environment.yaml](environment.yaml).
